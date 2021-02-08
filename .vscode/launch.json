@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "runtimeExecutable": "/Users/mac/.nvm/versions/node/v12.11.1/bin/node",
+            "program": "${workspaceFolder}/index.js"
+        }
+    ]
+}

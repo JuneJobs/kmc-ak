@@ -1,0 +1,23 @@
+{
+  "name": "kmc_ak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuneJobs/kmc-ak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuneJobs/kmc-ak/issues"
+  },
+  "homepage": "https://github.com/JuneJobs/kmc-ak#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "node-xlsx": "^0.16.1"
+  }
+}
